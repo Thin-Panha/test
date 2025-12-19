@@ -4,7 +4,7 @@
 
 A detailed academic report explaining the **design, cryptographic concepts, workflow, and security considerations** of this project is available here:
 
-👉 **[Download Project Report (PDF)](./Ransomware_Simulator_Implementation_Details.docx)**
+👉 **[Download Project Report (PDF)](./1.pdf)**
 
 > 📌 *Note:* Screenshots of program execution, encryption/decryption results, and file states are included in the report.
 
@@ -21,7 +21,7 @@ A detailed academic report explaining the **design, cryptographic concepts, work
 
 This project was developed as part of a **cryptography and cybersecurity learning initiative**, focusing on understanding ransomware internals in a **safe, ethical, and controlled environment**.
 
-📍 LinkedIn: [Panha Thin](www.linkedin.com/in/panha-thin)  
+📍 LinkedIn: [Panha Thin]([www.linkedin.com/in/panha-thin](https://www.linkedin.com/in/panha-thin/))  
 
 > **Stay curious. Stay ethical. Stay safe.** 🧠🔐
 ---
