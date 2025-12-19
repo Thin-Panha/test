@@ -3,8 +3,7 @@
 ## 📄 Project Report
 
 A detailed academic report explaining the **design, cryptographic concepts, workflow, and security considerations** of this project is available here:
-
-👉 **[Download Project Report (PDF)](./1.pdf)**
+ 📄 [View the usage guide (PDF)](./1.pdf)
 
 > 📌 *Note:* Screenshots of program execution, encryption/decryption results, and file states are included in the report.
 
