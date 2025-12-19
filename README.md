@@ -3,6 +3,7 @@
 ## 📄 Project Report
 
 A detailed academic report explaining the **design, cryptographic concepts, workflow, and security considerations** of this project is available here:
+ 
  📄 [View the usage guide (PDF)](./1.pdf)
 
 > 📌 *Note:* Screenshots of program execution, encryption/decryption results, and file states are included in the report.
@@ -18,9 +19,9 @@ A detailed academic report explaining the **design, cryptographic concepts, work
 🔐 Specialization: **Cybersecurity**  
 🧪 Generation: **GEN 10**
 
-This project was developed as part of a **cryptography and cybersecurity learning initiative**, focusing on understanding ransomware internals in a **safe, ethical, and controlled environment**.
-
 📍 LinkedIn: [Panha Thin](https://www.linkedin.com/in/panha-thin/)
+
+This project was developed as part of a **cryptography and cybersecurity learning initiative**, focusing on understanding ransomware internals in a **safe, ethical, and controlled environment**.
 
 > **Stay curious. Stay ethical. Stay safe.** 🧠🔐
 ---
