@@ -21,7 +21,7 @@ A detailed academic report explaining the **design, cryptographic concepts, work
 
 This project was developed as part of a **cryptography and cybersecurity learning initiative**, focusing on understanding ransomware internals in a **safe, ethical, and controlled environment**.
 
-📍 LinkedIn: [Panha Thin]([www.linkedin.com/in/panha-thin](https://www.linkedin.com/in/panha-thin/))  
+📍 LinkedIn: [Panha Thin](https://www.linkedin.com/in/panha-thin/)
 
 > **Stay curious. Stay ethical. Stay safe.** 🧠🔐
 ---
